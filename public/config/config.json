@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x43dadb116e24ac78ade8ac208c73bf7da7aa2f7f",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x43dadb116e24ac78ade8ac208c73bf7da7aa2f7f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Meta Chipmunks Club",
+  "SYMBOL": "MCC NFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 35000000000000000000,
+  "DISPLAY_COST": 35,
+  "GAS_LIMIT": 35000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/meta-chipmunks-club",
+  "SHOW_BACKGROUND": true
+}
