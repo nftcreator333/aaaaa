@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xE8aECcD339Add257851D38601D6F7e58505E6fc2",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xE8aECcD339Add257851D38601D6F7e58505E6fc2",
+  "CONTRACT_ADDRESS": "0x43851581Cfeb96EF8B0184c589bf7dCa39e16B9e",
+  "SCAN_LINK": "https://polygonscan.com/address/0x43851581Cfeb96EF8B0184c589bf7dCa39e16B9e",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -12,7 +12,7 @@
   "WEI_COST": 35000000000000000000,
   "DISPLAY_COST": 35,
   "GAS_LIMIT": 35000000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/meta-chipmunks-club",
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/meta-chipmunks-club",
   "SHOW_BACKGROUND": true
 }
